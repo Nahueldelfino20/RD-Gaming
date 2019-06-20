@@ -1,0 +1,64 @@
+{
+  "name": "Artronic Game Studios",
+  "short_name": "Artronic Studios",
+  "description": "Empresa de desarrollo de videojuegos",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/ArtronicLogo_1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/ArtronicLogo_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/ArtronicLogo_384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/ArtronicLogo_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/ArtronicLogo_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/ArtronicLogo_128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/ArtronicLogo_96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/ArtronicLogo_64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/ArtronicLogo_32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/ArtronicLogo_16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
